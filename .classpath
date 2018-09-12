@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Desktop/mohan/rest-assured-3.1.1-dist/rest-assured-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Desktop/mohan/rest-assured-3.1.1-dist/docs/json-path-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Desktop/mohan/rest-assured-3.1.1-dist/docs/json-path-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Desktop/mohan/rest-assured-3.1.1-dist/docs/rest-assured-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Desktop/mohan/rest-assured-3.1.1-dist/docs/rest-assured-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Desktop/mohan/rest-assured-3.1.1-dist/docs/rest-assured-common-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Desktop/mohan/rest-assured-3.1.1-dist/docs/rest-assured-common-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Desktop/mohan/rest-assured-3.1.1-dist/docs/xml-path-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Desktop/mohan/rest-assured-3.1.1-dist/docs/xml-path-3.1.1-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Downloads/htmlunit-2.19-bin/htmlunit-2.19/lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Downloads/htmlunit-2.19-bin/htmlunit-2.19/lib/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Downloads/htmlunit-2.19-bin/htmlunit-2.19/lib/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Downloads/htmlunit-2.19-bin/htmlunit-2.19/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Downloads/htmlunit-2.19-bin/htmlunit-2.19/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Downloads/htmlunit-2.19-bin/htmlunit-2.19/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Downloads/htmlunit-2.19-bin/htmlunit-2.19/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Downloads/htmlunit-2.19-bin/htmlunit-2.19/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Downloads/testng-6.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Downloads/junit-4.10 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Downloads/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Downloads/groovy-all-2.4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vthin/Downloads/json-simple-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
